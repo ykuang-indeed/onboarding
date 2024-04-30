@@ -1,1 +1,1 @@
-![test](indeedjobsearch://www.indeed.com)
+[test](indeedjobsearch://www.indeed.com)
